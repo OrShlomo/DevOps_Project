@@ -11,7 +11,7 @@
   </style>
 </head>
 <body>
-  <h1>HIT DevOps Final – Simple JSP App V2!!!!!</h1>
+  <h1>HIT DevOps Final – Simple JSP App</h1>
   <div class="box">
     <form method="get" action="index.jsp">
       <label for="nameInput">Enter your name:</label>
